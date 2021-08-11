@@ -24,7 +24,7 @@ jobs:
     # Specify environment (dev/test/etc)
     environment: dev
     env:
-      docker_repo_name: nr_drainage
+      docker_repo_name: buildx-test
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
